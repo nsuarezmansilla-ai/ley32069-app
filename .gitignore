@@ -1,0 +1,8 @@
+node_modules/
+android/local.properties
+android/keystore.properties
+android/*.jks
+android/app/build/
+android/build/
+android/.gradle/
+sitio/
